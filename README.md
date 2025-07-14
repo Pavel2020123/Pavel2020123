@@ -25,8 +25,9 @@
 ###
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
+  <img src="https://spotify-readme-pavel.vercel.app/api?count=5" alt="Spotify recently played" />
 </p>
+
 
 
 
